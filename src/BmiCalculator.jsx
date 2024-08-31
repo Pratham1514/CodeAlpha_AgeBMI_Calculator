@@ -30,7 +30,7 @@ const BmiCalculator = () => {
 
   return (
     <div className="flex flex-col items-center justify-center m-10 font-sans bg-slate-50 rounded-2xl shadow-xl md:p-10 p-5">
-      <h2 className="md:text-[25px] text-[18px]  font-semibold mb-3">
+      <h2 className="md:text-[25px] text-[18px]  font-semibold mb-3 text-center">
         BMI (Body Mass Index) Calculator
       </h2>
       <p className="text-wrap m-3 text-center md:text-[15px] text-[12px]">
