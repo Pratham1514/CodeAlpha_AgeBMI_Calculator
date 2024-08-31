@@ -41,7 +41,7 @@ const BmiCalculator = () => {
       <div className="w-full md:mt-7 m-3 flex md:flex-row flex-col md:gap-10 gap-3 items-center justify-evenly">
         <form onSubmit={calcBmi} className="flex flex-col justify-start p-3">
           <label className="md:text-[20px] text-[15px] font-medium mb-1">
-            Weight (lbs)
+            Weight (in Pounds(lbs))
           </label>
           <input
             type="number"
@@ -53,7 +53,7 @@ const BmiCalculator = () => {
           />
 
           <label className="md:text-[20px] text-[15px] font-medium mb-1">
-            Height (in)
+            Height (in inches)
           </label>
           <input
             type="number"
