@@ -15,7 +15,7 @@ A simple, user-friendly Age & BMI Calculator app built with **React.js** and sty
 
 ## Demo
 
-[Live Demo](#)
+<a href="https://age-bmi-calculator.vercel.app/">Live Demo</a>
 
 ## Installation
 
